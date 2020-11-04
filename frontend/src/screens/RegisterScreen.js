@@ -49,7 +49,7 @@ const RegisterScreen = ({ location, history }) => {
             type='name'
             placeholder='Enter name'
             value={name}
-            onChange={(e) => setName(e.target.value)}F
+            onChange={(e) => setName(e.target.value)}
           ></Form.Control>
         </Form.Group>
 
